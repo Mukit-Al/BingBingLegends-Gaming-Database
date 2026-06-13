@@ -1,5 +1,7 @@
 # BingBingLegends Gaming Database Project
 
+<!-- GitHub Pages deployment enabled - workflow will auto-deploy on push -->
+
 <div align="center">
 
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-2016%2B-blue?logo=microsoft-sql-server)
