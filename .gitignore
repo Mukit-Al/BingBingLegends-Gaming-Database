@@ -1,0 +1,55 @@
+# SQL Server files
+*.mdf
+*.ldf
+*.ndf
+*.bak
+*.trn
+*.sqlplan
+
+# Database files
+*.db
+*.sqlite
+*.sqlite3
+
+# IDE and Editor files
+.vs/
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# Log files
+*.log
+logs/
+
+# Temporary files
+*.tmp
+*.temp
+temp/
+tmp/
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Documentation PDFs (optional - uncomment if you want to exclude original assignment docs)
+# Documentation/*.pdf
+
+# Backup files
+*.backup
+*.bak
+*~
+
+# Compiled files
+*.exe
+*.dll
+*.so
+*.dylib
