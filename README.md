@@ -6,10 +6,11 @@
 ![Database](https://img.shields.io/badge/Database-Relational-green)
 ![Status](https://img.shields.io/badge/Status-Complete-success)
 ![License](https://img.shields.io/badge/License-Educational-yellow)
+[![GitHub Pages](https://img.shields.io/badge/GitHub-Pages-live-brightgreen?logo=github)](https://mukit-al.github.io/BingBingLegends-Gaming-Database/)
 
 **A comprehensive SQL database project for a mobile gaming platform, demonstrating professional database design, data manipulation, and analytical querying capabilities.**
 
-[📖 View Documentation](#-documentation) • [🚀 Getting Started](#-getting-started) • [📊 Database Schema](#-database-schema) • [💡 Use Cases](#-sample-use-cases)
+[🌐 Live Demo](https://mukit-al.github.io/BingBingLegends-Gaming-Database/) • [📖 View Documentation](#-documentation) • [🚀 Getting Started](#-getting-started) • [📊 Database Schema](#-database-schema) • [💡 Use Cases](#-sample-use-cases)
 
 </div>
 
